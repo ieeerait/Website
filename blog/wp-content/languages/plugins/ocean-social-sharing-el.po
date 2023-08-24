@@ -1,0 +1,196 @@
+# Translation of Plugins - Ocean Social Sharing - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Ocean Social Sharing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-26 22:47:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Ocean Social Sharing - Stable (latest release)\n"
+
+#: ocean-social-sharing.php:268
+msgid "Before & After the Content"
+msgstr "Πριν & Μετά το περιεχόμενο"
+
+#: ocean-social-sharing.php:267
+msgid "After the Content"
+msgstr "Μετά το περιεχόμενο"
+
+#: ocean-social-sharing.php:266
+msgid "Before the Content"
+msgstr "Πριν το περιεχόμενο"
+
+#: ocean-social-sharing.php:260
+msgid "Position"
+msgstr "Θέση"
+
+#: template/social-share.php:321
+msgid "Reddit"
+msgstr "Reddit"
+
+#: template/social-share.php:297
+msgid "Share on Reddit"
+msgstr "Διαμοιρασμός στο Reddit"
+
+#: template/social-share.php:285
+msgid "VK"
+msgstr "VK"
+
+#: template/social-share.php:274
+msgid "Share on VK"
+msgstr "Διαμοιρασμός στο VK"
+
+#: template/social-share.php:262
+msgid "Viber"
+msgstr "Viber"
+
+#: template/social-share.php:230
+msgid "Share on Viber"
+msgstr "Διαμοιρασμός στο Viber"
+
+#: template/social-share.php:218
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: template/social-share.php:383
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: template/social-share.php:361
+msgid "Share on Viadeo"
+msgstr "Διαμοιρασμός στο Viadeo"
+
+#: template/social-share.php:349
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: template/social-share.php:333
+msgid "Share on Tumblr"
+msgstr "Διαμοιρασμός στο Tumblr"
+
+#: template/social-share.php:192
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: template/social-share.php:162
+msgid "Google+"
+msgstr "Google+"
+
+#: template/social-share.php:135
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template/social-share.php:111
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ocean-social-sharing.php:435
+msgid "Minimal Style: Color"
+msgstr "Λιτό στυλ: Χρώμα"
+
+#: ocean-social-sharing.php:420
+msgid "Minimal Style: Background Color"
+msgstr "Λιτό στυλ: Χρώμα υπόβαθρου"
+
+#: ocean-social-sharing.php:405
+msgid "Minimal Style: Borders Color"
+msgstr "Λιτό στυλ: Χρώμα περιθωρίου"
+
+#: ocean-social-sharing.php:389
+msgid "Add a custom border radius. px - em - %."
+msgstr "Προσθέστε προσαρμοσμένο καμπύλη περιθωρίου.px - em - %."
+
+#: ocean-social-sharing.php:388
+msgid "Border Radius"
+msgstr "Καμπύλη περιθωρίου"
+
+#: ocean-social-sharing.php:375
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: ocean-social-sharing.php:374
+msgid "Colored"
+msgstr "Χρωματιστό"
+
+#: ocean-social-sharing.php:373
+msgid "Minimal"
+msgstr "Λιτό"
+
+#: ocean-social-sharing.php:367
+msgid "Style"
+msgstr "Στυλ"
+
+#: ocean-social-sharing.php:324
+msgid "Top"
+msgstr "Επάνω"
+
+#: ocean-social-sharing.php:323
+msgid "Side"
+msgstr "Πλάγια"
+
+#: ocean-social-sharing.php:317
+msgid "Heading Position"
+msgstr "Θέση κεφαλίδας"
+
+#: ocean-social-sharing.php:300
+msgid "Sharing Heading"
+msgstr "Κεφαλίδα διαμοιρασμού"
+
+#: ocean-social-sharing.php:283
+msgid "Add Social Name"
+msgstr "Προσθήκη ονόματος κοινωνικού "
+
+#. Plugin Name of the plugin
+msgid "Ocean Social Sharing"
+msgstr "Ocean Social Sharing"
+
+#: template/social-share.php:204
+msgid "Share on LinkedIn"
+msgstr "Διαμοιρασμός στο LinkedIn"
+
+#: template/social-share.php:174
+msgid "Share on Pinterest"
+msgstr "Διαμοιρασμός στο Pinterest"
+
+#: template/social-share.php:123
+msgid "Share on Facebook"
+msgstr "Διαμοιρασμός στο Facebook"
+
+#: template/social-share.php:100
+msgid "Share on Twitter"
+msgstr "Διαμοιρασμός στοTwitter"
+
+#: ocean-social-sharing.php:294
+msgid "Please Share This"
+msgstr "Παρακαλούμε μοιραστείτε το"
+
+#: ocean-social-sharing.php:232
+msgid "Sharing Buttons"
+msgstr "Κουμπιά διαμοιρασμού"
+
+#: ocean-social-sharing.php:207
+msgid "Social Sharing"
+msgstr "Κοινωνικός διαμοιρασμός"
+
+#: ocean-social-sharing.php:132 ocean-social-sharing.php:141
+msgid "Cheatin&#8217; huh?"
+msgstr "Κλέβεις ε;"
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Description of the plugin
+msgid "A simple plugin to add social share buttons to your posts."
+msgstr "Ένα απλό πρόσθετο να προσθέτετε κουμπικά διαμοιρασμού στις δημοσιεύσεις σας."
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-social-sharing/"
+msgstr "https://oceanwp.org/extension/ocean-social-sharing/"
