@@ -18,6 +18,25 @@
     <link rel="preload" as="image" href="img/intro-carousel/6.jpg">
     <!-- Main Stylesheet File -->
     <link href="css/style.min.css" rel="stylesheet">
+    <style>
+        .portfolio-item img.img-fluid {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        body {
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        }
+
+        #footer {
+        background-color: black; 
+        padding: 20px 0; 
+        margin-top: auto;
+        }
+    </style>
 </head>
 <body>
     <!-- <div id="preloader"></div> -->
@@ -29,11 +48,19 @@
         <button type="button" id="mobile-nav-toggle"><i class="fa fa-bars"></i></button>
         <div id="logo" class="pull-left navbar-brand">
             <!-- Uncomment below if you prefer to use an image logo -->
-            <h1 style="margin-top: -8px;"><a href="#intro">IEEE RAIT</a></h1>
+         <h1><a href="#intro" >IEEE RAIT</a></h1>
+        </ul>
         </div>
         <nav id="nav-menu-container">
             <ul class="nav-menu">
-                <li class="menu-active"><a href="/index.html">Home</a></li>
+                <li class="menu-active"><a href="index.html">Home</a></li>
+                <li><a href="index.html">About Us</a></li>
+                <li><a href="index.html">Team</a></li>
+                <li><a href="/workshops.html">Upcoming Internships</a></li>
+                <li><a href="index.html">Faculty</a></li>
+                <li><a href="index.html">Contact</a></li>
+                <li><a href="https://medium.com/@ieee-rait">blogs</a></li>
+                <li><a href="previous.html">Alumni</a></li>
             </ul>
         </nav>
         <!-- #nav-menu-container -->
@@ -46,7 +73,7 @@
     <section id="portfolio" class="section-bg">
         <div class="container">
             <header class="section-header">
-                <h3 class="section-title">Upcoming Workshops</h3>
+                <h3 class="section-title">Upcoming Internships</h3>
             </header>
             <div class="row">
                 <div class="col-lg-12">
@@ -55,21 +82,19 @@
                     </ul>
                 </div>
             </div>
-            <div class="row portfolio-container mb-5">
-                <div class="col-lg-4 col-md-6 portfolio-item filter-Techfest wow fadeInUp">
-                    <div class="portfolio-wrap">
-                        <figure>
-                            <img src="img/Arduino.jpeg" class="img-fluid" alt="IEEE" loading="lazy">
-                            <a href="img/Arduino.jpeg" data-lightbox="filter-Techfest" data-title="WHIZION 2k19" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-                            <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                        </figure>
-
-                        <div class="portfolio-info">
-                            <h4><a href="https://docs.google.com/forms/d/e/1FAIpQLSeG_C8pX2wxeyOfEdBY93Kst2QCGYD9m-Gl1VveI2Rbhhk_Pg/viewform">Arduino</a></h4>
-                            <p>Workshop</p>
-                        </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-Techtalks wow fadeInUp" data-wow-delay="0.1s">
+                <div class="portfolio-wrap">
+                    <figure>
+                        <img src="img/portfolio/IEEE_INTERNSHIP1.png" class="img-fluid" alt="IEEE" loading="lazy">
+                        <a href="img/portfolio/IEEE_INTERNSHIP2.png" class="link-preview" data-lightbox="filter-Techtalks" data-title="DEMYSTIFYING DRONES" title="Preview"><i class="ion ion-eye"></i></a>
+                        <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+                    </figure>
+                    <div class="portfolio-info">
+                        <h4><a href="https://docs.google.com/forms/d/e/1FAIpQLSemgTWG42bDPujNyJKMTgywvPA7ECyQWdLRhD-hxQWPypvy6Q/viewform">WINTER INTERNSHIP</a></h4>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSemgTWG42bDPujNyJKMTgywvPA7ECyQWdLRhD-hxQWPypvy6Q/viewform">Register Now!</a></p>
                     </div>
                 </div>
+            </div>
                 <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-Techtalks wow fadeInUp" data-wow-delay="0.1s">
                     <div class="portfolio-wrap">
                         <figure>
@@ -221,8 +246,6 @@
                     , <a href="https://www.linkedin.com/in/bhargav-dhumal-a6570b21a/" target="blank"> Bhargav Dhumal </a>
                     and <a href="https://www.linkedin.com/in/ganesh-choudhary-9845a8247/" target="blank"> Ganesh Choudhary </a>
                 </div>
-                
-                
             </div>
     </footer>
 </body>
